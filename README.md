@@ -109,7 +109,7 @@ This will execute all cells and save results to a new file `notebook_executed.ip
 
 ---
 
-## Running the Streamlit App (Optional)
+## Running the Streamlit App 
 
 ### Step 1: Install Streamlit
 
